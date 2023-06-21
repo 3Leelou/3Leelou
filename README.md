@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to contact me on [Discord](https://discord.com/users/1114315217640362107), [Twitter](https://twitter.com/spyzilya) or [Instagram](https://www.instagram.com/spyzilya/)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1114315217640362107)](https://spyzilya.sh.gg)
+
 <!---
 spyzilya/spyzilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
