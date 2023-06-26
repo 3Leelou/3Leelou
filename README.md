@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Enora](https://pronouns.page/@A3nora) alias [A3nora](https://github.com/A3nora).
+- 👋 Hi, I’m <a href="https://pronouns.page/@A3nora" title="Pronouns.page" rel="me">Enora</a> alias [A3nora](https://github.com/A3nora).
 - 👀 I'm interested in web and other development, video games and game photography.
 - 🌱 I’m currently learning [Astro.JS](https://astro.build/?ref=github.com/A3nora), [Svelte](https://docs.astro.build/fr/guides/integrations-guide/svelte/?ref=github.com/A3nora)
 - 💞️ I’m looking to collaborate on nothing...
