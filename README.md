@@ -1,12 +1,12 @@
-- 👋 Hi, I’m <a href="https://pronouns.page/@PleaseNotHorny" title="Pronouns.page" rel="me">PNH</a> alias [PleaseNotHorny](https://github.com/PleaseNotHorny).
+- 👋 Hi, I’m <a href="https://pronouns.page/@lirulya" title="Lirulya Tempest" rel="me">Lirulya Tempest</a> alias [Lirulya](https://github.com/lirulya).
 - 👀 I'm interested in web and other development, video games and game photography.
-- 🌱 I’m currently learning [Astro.JS](https://astro.build/?ref=github.com/PleaseNotHorny), [Svelte](https://docs.astro.build/fr/guides/integrations-guide/svelte/?ref=github.com/PleaseNotHorny)
+- 🌱 I’m currently learning [Astro.JS](https://astro.build/?ref=github.com/lirulya), [Svelte](https://docs.astro.build/fr/guides/integrations-guide/svelte/?ref=github.com/lirulya)
 - 💞️ I’m looking to collaborate on nothing...
-- 📫 How to contact me on [Discord](https://discord.com/users/1114315217640362107), [Twitter](https://twitter.com/PleaseNotHorny) or [Instagram](https://www.instagram.com/PleaseNotHorny)
+- 📫 How to contact me on [Discord](https://discord.com/users/1114315217640362107), [Twitter](https://twitter.com/lirulyatempest) or [Instagram](https://www.instagram.com/lirulyatempest)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1114315217640362107)](https://instagram.com/PleaseNotHorny)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1114315217640362107)](https://instagram.com/lirulyatempest)
 
 <!---
-PleaseNotHorny/pleasenothorny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lirulya/lirulya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
