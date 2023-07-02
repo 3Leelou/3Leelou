@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://pronouns.page/@A3nora" title="Pronouns.page" rel="me">PNH</a> alias [PleaseNotHorny](https://github.com/PleaseNotHorny).
+- 👋 Hi, I’m <a href="https://pronouns.page/@PleaseNotHorny" title="Pronouns.page" rel="me">PNH</a> alias [PleaseNotHorny](https://github.com/PleaseNotHorny).
 - 👀 I'm interested in web and other development, video games and game photography.
 - 🌱 I’m currently learning [Astro.JS](https://astro.build/?ref=github.com/PleaseNotHorny), [Svelte](https://docs.astro.build/fr/guides/integrations-guide/svelte/?ref=github.com/PleaseNotHorny)
 - 💞️ I’m looking to collaborate on nothing...
