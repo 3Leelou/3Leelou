@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://pronouns.page/@lirulya" title="Lirulya Tempest" rel="me">Lirulya Tempest</a> alias [Lirulya](https://github.com/lirulya).
+- 👋 Hi, I’m <a href="https://pronouns.page/@lirulya" title="Lirulya Tempest" rel="me">Lirulya Tempest</a> aka [Lirulya](https://github.com/lirulya), not Limule Tempest.
 - 👀 I'm interested in web and other development, video games and game photography.
 - 🌱 I’m currently learning [Astro.JS](https://astro.build/?ref=github.com/lirulya), [Svelte](https://docs.astro.build/fr/guides/integrations-guide/svelte/?ref=github.com/lirulya)
 - 💞️ I’m looking to collaborate on nothing...
