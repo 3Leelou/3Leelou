@@ -27,4 +27,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_SHORT_INFO: "True"
           LOCALE: "en"
-          COMMIT_MESSAGE: "[Automated] :flower: Lirulya: Coding Activity Update :moon:"
+          COMMIT_MESSAGE: "[Automated] :cherry_blossom: Lirulya: Coding Activity Update :moon:"
