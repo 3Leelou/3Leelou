@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://lirulya.github.io" title="Lirulya's Website">
+    <img src="https://lanyard.cnrad.dev/api/1114315217640362107?theme=dark&hideStatus=true" alt="RIP...">
+  </a>
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%201%20min-blue)
 
@@ -81,9 +87,3 @@ HCL                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 08/07/2023 23:51:20 UTC
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <a href="https://lirulya.github.io" title="Lirulya's Website">
-    <img src="https://lanyard.cnrad.dev/api/1114315217640362107?theme=dark&idleMessage=Probably%20doing%20something%20else...%20with%20Rimuru%20or%20BF/GF" alt="RIP...">
-  </a>
-</p>
