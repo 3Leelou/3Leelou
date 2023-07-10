@@ -3,14 +3,15 @@ name: AutoUpdate WakaTime
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0,12 * * *'
 
 jobs:
   update-readme:
-    name: Profile Readme Development Stats
+    name: Initialize Workflow, APIs and Configuration
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Connect to API and update .md with received data
+        uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.LIRULYA_TOKEN  }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_APIKEY }}
@@ -27,4 +28,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_SHORT_INFO: "True"
           LOCALE: "en"
-          COMMIT_MESSAGE: "[Automated] :cherry_blossom: Lirulya: Coding Activity Update :moon:"
+          COMMIT_MESSAGE: "[Automated v0.2] :cherry_blossom: Lirulya: Coding Activity Update :moon:"
