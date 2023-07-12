@@ -11,15 +11,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 36.7 kB Used in GitHub's Storage 
+> 📦 32.9 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2023
+> 🏆 58 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 2 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -63,5 +63,5 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2023 12:42:17 UTC
+ Last Updated on 12/07/2023 13:08:25 UTC
 <!--END_SECTION:waka-->
