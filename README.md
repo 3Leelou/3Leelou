@@ -7,27 +7,27 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 33.6 kB Used in GitHub's Storage 
+> 📦 37.4 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2023
+> 🏆 50 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 6 Private Repository 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-🌆 Daytime                95 commits          ███████████░░░░░░░░░░░░░░   42.41 % 
-🌃 Evening                63 commits          ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  55 commits          ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌞 Morning                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌆 Daytime                83 commits          ████████████░░░░░░░░░░░░░   47.16 % 
+🌃 Evening                42 commits          ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+🌙 Night                  40 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 ```
 
 
@@ -63,5 +63,5 @@ HCL                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2023 01:57:34 UTC
+ Last Updated on 15/07/2023 11:16:24 UTC
 <!--END_SECTION:waka-->
