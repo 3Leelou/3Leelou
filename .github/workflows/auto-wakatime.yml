@@ -28,4 +28,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "True"
           LOCALE: "en"
-          COMMIT_MESSAGE: "[Automated v0.2.1] :cherry_blossom: Louvenia: Coding Activity Update :moon:"
+          COMMIT_MESSAGE: "[Automated v0.2.1] :cherry_blossom: Louvinia: Coding Activity Update :moon:"
