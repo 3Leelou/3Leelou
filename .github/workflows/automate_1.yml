@@ -1,4 +1,4 @@
-name: Automate #1 - WakaTime
+name: Automate*1 - WakaTime
 
 on:
   workflow_dispatch:
