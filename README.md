@@ -5,13 +5,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.9 kB Used in GitHub's Storage 
+> 📦 38.0 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2023
  > 
@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-🌆 Daytime                94 commits          ████████████░░░░░░░░░░░░░   48.70 % 
-🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌙 Night                  42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+🌆 Daytime                117 commits         ████████████░░░░░░░░░░░░░   48.55 % 
+🌃 Evening                56 commits          ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌙 Night                  56 commits          ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
 ```
 
 
@@ -35,13 +35,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               6 mins              ███████████████████░░░░░░   74.49 % 
+Git Config               2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PersWeb.NextJS           8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Astro** 
@@ -57,5 +58,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2023 12:33:59 UTC
+ Last Updated on 20/07/2023 01:28:50 UTC
 <!--END_SECTION:waka-->
