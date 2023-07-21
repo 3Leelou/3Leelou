@@ -1,8 +1,8 @@
-<p align="left">
-  <a href="https://lirulya.github.io" title="Lirulya's Website">
-    <img src="https://lanyard.cnrad.dev/api/1114315217640362107?theme=dark&hideStatus=true" alt="RIP...">
-  </a>
-</p>
+```text
+                                                          Leelou
+                                                 Discord: leelou.u
+                                           Insta/Twitter: @EndLouvy
+```
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
