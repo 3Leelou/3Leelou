@@ -1,6 +1,6 @@
 ```text
                                                           Leelou
-                                                 Discord: leelou.u
+                                                 Discord: 3leelou
                                            Insta/Twitter: @3Leelou
 ```
 
