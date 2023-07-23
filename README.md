@@ -1,7 +1,7 @@
 ```text
                                                           Leelou
                                                  Discord: leelou.u
-                                           Insta/Twitter: @EndLouvy
+                                           Insta/Twitter: @3Leelou
 ```
 
 <!--START_SECTION:waka-->
