@@ -1,7 +1,7 @@
 ```text
                                                           Leelou
                                                  Discord: 3leelou
-                                           Insta/Twitter: @3Leelou
+                                           Insta/Twitter: @VRPurply
 ```
 
 <!--START_SECTION:waka-->
