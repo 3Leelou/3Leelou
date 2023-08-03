@@ -1,6 +1,6 @@
 ```text
-                                                          Leelou
-                                                 Discord: 3leelou
+                                                          Lunnah
+                                                 Discord: lou.lunnah
                                            Insta/Twitter: @VRPurply
 ```
 
