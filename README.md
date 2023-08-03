@@ -1,7 +1,7 @@
 ```text
-                                                          Lunnah
-                                                 Discord: lou.lunnah
-                                           Insta/Twitter: @VRPurply
+                                                          Darky
+                                         Twitter/Discord: Darkynea
+                                               Instagram: @Darkynea_
 ```
 
 <!--START_SECTION:waka-->
