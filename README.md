@@ -1,7 +1,7 @@
 ```text
-                                                          Darky
-                                         Twitter/Discord: Darkynea
-                                               Instagram: @Darkynea_
+                                                          Alyxe
+                                         Twitter/Discord: Alyxend
+                                               Instagram: @Alyxend
 ```
 
 <!--START_SECTION:waka-->
