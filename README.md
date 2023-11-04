@@ -34,15 +34,13 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   2 mins              ████████████████░░░░░░░░░   65.45 % 
-JavaScript               1 min               ████████░░░░░░░░░░░░░░░░░   33.42 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ms-editor                3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -58,5 +56,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2023 01:12:46 UTC
+ Last Updated on 04/11/2023 12:30:27 UTC
 <!--END_SECTION:waka-->
