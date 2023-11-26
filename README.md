@@ -4,7 +4,7 @@
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.4%20thousand%20lines%20of%20code-blue)
 
@@ -34,13 +34,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 39 mins       ██████████████████░░░░░░░   73.06 % 
+JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+HTML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NewLauncher              3 hrs 24 mins       ███████████████████████░░   93.53 % 
+Launcher                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -56,5 +61,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2023 01:20:21 UTC
+ Last Updated on 26/11/2023 12:30:46 UTC
 <!--END_SECTION:waka-->
